@@ -55,11 +55,3 @@ SQLite, PostgreSQL
 Cloudflare, (com cloudflared)
 APIs, webhooks e scripts
 ```
-
-Gosto de projetos que fazem sentido a longo prazo.
-
-Código que dá pra reler.
-
-Infra que não surpreende.
-
-Soluções que resolvem o dia a dia sem complicar.
