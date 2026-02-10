@@ -1,16 +1,74 @@
-## Hi there 👋
+# Leonardo
 
-<!--
-**leobarayoyoyo1-creator/leobarayoyoyo1-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Faço sistemas, automações e infraestrutura porque sempre gostei de fazer as coisas assim
+e de entender como tudo funciona de verdade 
+Prefiro ter controle do que depender demais de fora.
+###
+Grande parte do que uso roda em minhas próprias máquinas, do jeito que eu preciso — e do jeito que eu quero que rode.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hoje meu dia costuma girar em torno de código que precisa continuar funcionando,
+automações pra evitar retrabalho,
+e sistemas simples o suficiente pra não virarem um problema depois.
+###
+Um exemplo do tipo de coisa que faço é o meu gerenciador de EPI.
+Tenho bastante orgulho dele pela complexidade, amplitude e funcionalidade.
+###
+Algumas das coisas que ele faz hoje:
+
+```txt
+gerenciamento completo de estoque de EPI
+
+
+retirada de EPI por funcionário, com geração automática de PDF
+para assinatura e registro
+
+
+armazenamento seguro dos documentos assinados,
+com banco de dados criptografado
+
+
+verificação por funcionário e função específica do tempo
+desde a última entrega de EPI,
+com envio de notificações quando há obrigação de nova retirada
+
+
+controle de validade dos EPIs,
+feito de forma totalmente automática
+```
+
+A maior parte do que faço é empresarial, então nem tudo dá pra deixar público.  
+Por focar muito nisso, acabei ficando um bom tempo longe do GitHub.  
+Agora estou voltando a usar com mais frequência, e aos poucos vou colocando projetos por aqui.
+
+Nada muito teórico.  
+Coisa prática.
+
+---
+
+uso bastante como base
+
+```txt
+Python
+JavaScript / TypeScript
+```
+
+normalmente junto disso
+
+```txt
+HTML, CSS
+Linux
+Git
+SQLite, PostgreSQL
+Cloudflare, (com cloudflared)
+APIs, webhooks e scripts
+```
+
+Gosto de projetos que fazem sentido a longo prazo.
+
+Código que dá pra reler.
+
+Infra que não surpreende.
+
+Soluções que resolvem o dia a dia sem complicar.
