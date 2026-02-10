@@ -2,7 +2,6 @@
 
 Faço sistemas, automações e infraestrutura porque sempre gostei de fazer as coisas assim
 e de entender como tudo funciona de verdade 
-Prefiro ter controle do que depender demais de fora.
 ###
 Grande parte do que uso roda em minhas próprias máquinas, do jeito que eu preciso — e do jeito que eu quero que rode.
 
@@ -37,14 +36,6 @@ com envio de notificações quando há obrigação de nova retirada
 controle de validade dos EPIs,
 feito de forma totalmente automática
 ```
-
-A maior parte do que faço é empresarial, então nem tudo dá pra deixar público.  
-Por focar muito nisso, acabei ficando um bom tempo longe do GitHub.  
-Agora estou voltando a usar com mais frequência, e aos poucos vou colocando projetos por aqui.
-
-Nada muito teórico.  
-Coisa prática.
-
 ---
 
 uso bastante como base
